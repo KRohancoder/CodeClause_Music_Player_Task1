@@ -38,7 +38,7 @@ Then run it by double clicking on player.py!
 
 # Editor's Interface Screenshot
 
-![Screenshot](c10.png)
+![Screenshot](c10.PNG)
 
 =======================================================================
 
